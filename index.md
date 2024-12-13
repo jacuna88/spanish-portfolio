@@ -5,8 +5,8 @@ layout: default
 
 ## About me
 
-Welcome to my Spanish teaching portfolio page!.
-I am a Musician, Composer and currently Spanish Teaching Assistant.
+Welcome to my Spanish teaching portfolio page!. My name is Julián (he/him).
+I am a Musician, Composer and Spanish Instructor.
 
 ## Lessons page
 [Click here to access sample lessons](./lessons.html).
