@@ -41,9 +41,9 @@ Introducing the Best Original Song winner at the 2005 Oscars.
 ### Intercultural Lesson
 A vlog with interviews about young adults shopping at thrift stores in Bogotá
 
-[Downlaod Handout](./lessons/moda_bogota/moda_bogota.pdf)
+[Downlaod Handout](./lessons/bogota_moda/bogota_moda.pdf)
 
-[Downlaod Slides](./lessons/moda_bogota/moda_bogota.pptx)
+[Downlaod Slides](./lessons/bogota_moda/bogota_moda.pptx)
 
 <iframe src="./lessons/bogota_moda/bogota_moda.pdf" width="100%" height="500" frameborder="0"></iframe>
 <br />
