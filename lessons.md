@@ -24,8 +24,10 @@ An interview with a multitalented doctor.
 ## Grammar Instruction
 ### Grammar Lesson 1
 How to talk about what you dreamt last night in Spanish
+[Downlaod Handout](./lessons/en_mi_sueno/en_mi_sueno.pdf)
+[Downlaod Slides](./lessons/en_mi_sueno/en_mi_sueno.pptx)
 <iframe src="./lessons/en_mi_sueno/en_mi_sueno.pdf" width="100%" height="500" frameborder="0"></iframe>
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://jacuna88.github.io/spanish-portfolio/lessons/en_mi_sueno/en_mi_sueno.pptx]' width='100%' height='600px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/view.aspx?src=[https://jacuna88.github.io/spanish-portfolio/lessons/en_mi_sueno/en_mi_sueno.pptx]' width='100%' height='600px' frameborder='0'>
 
 ### Grammar Lesson 2
 Introducing the Best Original Song winner at the 2005 Oscars. 
