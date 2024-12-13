@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+# Spanish Teaching Portfolio
 
-# About me
+## About me
 
+Welcome to my Spanish teaching portfolio page!.
 I am a Musician, Composer and currently Spanish Teaching Assistant.
 
 ## Teaching phylosophy
