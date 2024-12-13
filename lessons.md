@@ -5,17 +5,16 @@ layout: default
 [back](./)
 
 ## Interpretive Communication 
-### Oral comprehension Lesson
 
-### Reading Comprehension Lesson
-
-### Listening Comprehension Lesson
+### Oral Comprehension Lesson
 An interview with a multitalented doctor.
 
 [Downlaod Handout](./lessons/entrevista_jorge/entrevista_jorge.pdf)
 
 <iframe src="./lessons/entrevista_jorge/entrevista_jorge.pdf" width="100%" height="500" frameborder="0"></iframe>
 <br />
+
+### Reading Comprehension Lesson
 
 ## Oral Communication 
 ### Information exchange Task 1
