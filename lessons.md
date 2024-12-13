@@ -14,9 +14,9 @@ An interview with a multitalented doctor.
 
 [Handout](./lessons/entrevista_jorge/entrevista_jorge.pdf)
 
-<embed src="./lessons/entrevista_jorge/entrevista_jorge.pdf" type="application/pdf" />
+<embed src="./lessons/entrevista_jorge/entrevista_jorge.pdf" width="100%" height="500" type="application/pdf" />
 
-<iframe src="file.pdf" width="100%" height="500" frameborder="0" />
+<iframe src="./lessons/entrevista_jorge/entrevista_jorge.pdf" width="100%" height="500" frameborder="0" />
 
 
 ## Oral Communication 
