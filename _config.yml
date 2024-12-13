@@ -3,3 +3,5 @@ description: Julián Acuña-González
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+github:
+  is_project_page: false
