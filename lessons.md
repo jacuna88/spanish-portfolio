@@ -11,7 +11,7 @@ layout: default
 
 ### Listening Comprehension Lesson
 An interview with a multitalented doctor.
-(Handout)[./lessons/entrevista_jorge/entrevista_jorge.pdf]
+[Handout](./lessons/entrevista_jorge/entrevista_jorge.pdf)
 
 ## Oral Communication 
 ### Information exchange Task 1
