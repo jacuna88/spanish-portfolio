@@ -13,6 +13,8 @@ layout: default
 An interview with a multitalented doctor.
 [Handout](./lessons/entrevista_jorge/entrevista_jorge.pdf)
 <embed src="./lessons/entrevista_jorge/entrevista_jorge.pdf" type="application/pdf" />
+<object data="./lessons/entrevista_jorge/entrevista_jorge.pdf" width="1000" height="1000" type='application/pdf'/>
+
 ## Oral Communication 
 ### Information exchange Task 1
 ### Information exchange Task 2
