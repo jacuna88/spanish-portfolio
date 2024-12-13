@@ -8,6 +8,9 @@ layout: default
 Welcome to my Spanish teaching portfolio page!.
 I am a Musician, Composer and currently Spanish Teaching Assistant.
 
+## Lessons page
+[Click here to access sample lessons](./lessons.html).
+
 ## Teaching phylosophy
 
 ### Language and language topics are not islands
