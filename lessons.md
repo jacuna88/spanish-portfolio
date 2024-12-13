@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-# Sample lessons
+# Sample Lessons
