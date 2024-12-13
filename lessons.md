@@ -16,8 +16,6 @@ An interview with a multitalented doctor.
 
 <embed src="./lessons/entrevista_jorge/entrevista_jorge.pdf" type="application/pdf" />
 
-<object data="./lessons/entrevista_jorge/entrevista_jorge.pdf" width="1000" height="1000" type='application/pdf'/>
-
 <iframe src="file.pdf" width="100%" height="500" frameborder="0" />
 
 
