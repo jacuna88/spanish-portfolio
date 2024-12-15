@@ -16,8 +16,11 @@ An interview with a multitalented doctor.
 
 ### Reading Comprehension Lesson
 Why is Lorena Ramírez, a woman from the *Rarámuri* ethnic group, featured on the cover of *VOGUE México*.
+
 [Downlaod Handout](./lessons/lorena/lorena_hand.pdf)
+
 [Downlaod Slides](./lessons/lorena/lorena_slides.pdf)
+
 <iframe src="./lessons/lorena/lorena_hand.pdf" width="100%" height="500" frameborder="0"></iframe>
 <br />
 <iframe src="./lessons/lorena/lorena_slides.pdf" width="100%" height="500" frameborder="0"></iframe>
